@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.ltnc.ml&#x2F;m",
-    "currentPage": "info.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Pagina principală",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
